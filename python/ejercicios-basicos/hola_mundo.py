@@ -6,7 +6,7 @@ def saludar(nombre):
     """
     Función que saluda a una persona
     """
-    mensaje = f"¡Hola {nombre}! Bienvenido a mi portfolio de análisis de datos."
+    mensaje = "¡Hola! Bienvenido a mi portfolio de análisis de datos."
     return mensaje
 
 # Programa principal
@@ -25,5 +25,5 @@ if __name__ == "__main__":
     
     print("\n¡Vamos por más! 🚀")
 
-
+print("¡Seguimos aprendiendo! 📊")
 
