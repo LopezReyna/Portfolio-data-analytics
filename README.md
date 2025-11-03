@@ -12,29 +12,10 @@ Apasionado por transformar datos en insights accionables. Actualmente desarrolla
 ## 📂 Proyectos destacados
 
 ### Python
-# Ejercicios Básicos de Python
-
-Esta carpeta contiene ejercicios prácticos para dominar los fundamentos de Python.
-
-## 📚 Contenido
-
-### ejercicios_python_fundamentos.py
-20 ejercicios que cubren:
-- ✅ Tipos de datos simples (string, int, float, bool)
-- ✅ Variables y concatenación
-- ✅ Operadores de pertenencia (in, not in)
-- ✅ Tipos de datos compuestos (listas, tuplas, diccionarios)
-- ✅ Operadores aritméticos (+, -, *, /, //, %, **)
-- ✅ Operadores de comparación (==, !=, >, <, >=, <=)
-- ✅ Condicionales (if, elif, else)
-- ✅ Operadores lógicos (and, or, not)
-
-## 🎯 Objetivo
-
-Estos ejercicios son parte de mi proceso de aprendizaje en Python, enfocándome en análisis de datos.
-
-## 📅 Fecha
-Noviembre 2025
+- ✅ [Fundamentos de Python](python/ejercicios-basicos/) - 20 ejercicios completados
+  - Tipos de datos, variables, operadores
+  - Condicionales y lógica básica
+- [Próximamente] Análisis exploratorio de datos 
 
 ### SQL
 - [Próximamente] Consultas de análisis de ventas
