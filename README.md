@@ -18,7 +18,11 @@ Apasionado por transformar datos en insights accionables. Actualmente desarrolla
 - [Próximamente] Análisis exploratorio de datos 
 
 ### SQL
-- [Próximamente] Consultas de análisis de ventas
+- ✅ [Ejercicios SQL Intermedio](sql/consultas-practicas/) - 20 ejercicios completados
+  - JOINs (INNER, LEFT, RIGHT)
+  - GROUP BY y funciones agregadas
+  - Subconsultas y CASE WHEN
+  - Análisis de base de datos e-commerce
 
 ### Power BI
 - [Próximamente] Dashboard interactivo de KPIs
