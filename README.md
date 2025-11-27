@@ -6,7 +6,7 @@
 
 Apasionado por transformar datos en insights accionables. Actualmente desarrollando habilidades en:
 - 🐍 Python (Pandas, NumPy, análisis de datos)
-- 🗄️ SQL (MySQL, consultas complejas)
+- 🗄️ SQL (SQL Server, consultas complejas)
 - 📊 Power BI (dashboards interactivos y visualización)
 
 ## 📂 Proyectos destacados
@@ -25,7 +25,14 @@ Apasionado por transformar datos en insights accionables. Actualmente desarrolla
   - Análisis de base de datos e-commerce
 
 ### Power BI
-- [Próximamente] Dashboard interactivo de KPIs
+- ✅ [Dashboard Superstore - Módulo 3](power-bi/dashboards/) - Proyecto completado
+  - Visualizaciones: Tablas, Matrices, TreeMap, Mapas, Gráficos jerárquicos
+  - Transformación de datos con Power Query
+  - Columnas condicionales y clasificaciones
+  - Formato condicional con escalas de color
+  - Jerarquías y navegación drill-down
+  - Slicers y filtros interactivos
+  - 2 páginas de análisis + dashboard integrado
 
 ## 🛠️ Tecnologías
 
