@@ -15,6 +15,10 @@ Apasionado por transformar datos en insights accionables. Actualmente desarrolla
 - ✅ [Fundamentos de Python](python/ejercicios-basicos/) - 20 ejercicios completados
   - Tipos de datos, variables, operadores
   - Condicionales y lógica básica
+- ✅ [Métodos y Bucles](python/ejercicios-basicos/) - 25 ejercicios completados
+  - Métodos de strings, listas y diccionarios
+  - Entrada de datos (inputs)
+  - Bucles for y while
 - [Próximamente] Análisis exploratorio de datos 
 
 ### SQL
