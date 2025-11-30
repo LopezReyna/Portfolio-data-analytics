@@ -45,7 +45,7 @@ oracion = "Python es un lenguaje poderoso"
 print(f"Oración dividida: {oracion.split(' ')}")
 print(type(oracion))
 separador = "-"
-print(f"Oración dividida: {(separador.join(oracion))}")
+print(f"Oración dividida: {(separador.join(oracion.split(' ')))}")
 
 
 
@@ -212,7 +212,7 @@ diccionario1 = {
 print(f"Stock: {diccionario1.get('stock')}")
 
 diccionario1.setdefault("stock", 5)
-print(f"Todas las keys: {diccionario1.get('stock')}")
+print(f"Stock agregado: {diccionario1.get('stock')}")
 print(f"Diccionario: {diccionario1}")
 
 
@@ -223,8 +223,19 @@ print("=" * 50)
 # Actualizá múltiples valores con update()
 # Eliminá una clave con pop() y guardá su valor
 
-# TU CÓDIGO AQUÍ:
+diccionario2 = {
+                "producto": "Jabón Facial", 
+                "precio": 3000
+            }
 
+print(f"Diccionario inicial: {diccionario2}")
+
+diccionario2.update({"producto": "Jabón Corporal"})
+diccionario2.update({"precio": 3500})
+print(f"Diccionario modificado: {diccionario2}")
+
+diccionario2.pop("precio")
+print(f"Diccionario eliminando el precio: {diccionario2}")
 
 
 
@@ -239,9 +250,10 @@ print("=" * 50)
 # Pedí su edad (convertila a entero)
 # Imprimí: "Hola [nombre], tenés [edad] años"
 
-# TU CÓDIGO AQUÍ:
+nombre_usuario = input("Ingrese su nombre de usuario: ")
+edad = input("Ingrese su edad: ")
 
-
+print(f"Hola {nombre_usuario} tienes {int(edad)} años")
 
 
 print("\n" + "=" * 50)
@@ -251,10 +263,23 @@ print("=" * 50)
 # Pedí qué operación quiere hacer (+, -, *, /)
 # Mostrá el resultado
 
-# TU CÓDIGO AQUÍ:
+num1 = input("Ingrese numero 1: ")
+num2 = input("Ingrese numero 2: ")
 
+operacion = input("Ingrese qué operación quiere hacer (+, -, *, /): ")
 
-
+if operacion == "+":
+    print(f"Resultado: {float(num1) + float(num2)}")
+elif operacion == "-":
+    print(f"Resultado: {float(num1) - float(num2)}")
+elif operacion == "*":
+    print(f"Resultado: {float(num1) * float(num2)}")
+elif operacion == "/":
+    if float(num1) >= 1 and float(num2) >= 1:
+        print(f"Resultado: {float(num1) / float(num2)}")
+    elif float(num1) == 0 or float(num2) == 0:
+        print("No se puede dividir por 0")
+    
 
 print("\n" + "=" * 50)
 print("EJERCICIO 16: Validación de input")
@@ -263,10 +288,13 @@ print("=" * 50)
 # Si no está en ese rango, mostrá un mensaje de error
 # Si está en el rango, mostrá "Número válido"
 
-# TU CÓDIGO AQUÍ:
+num3 = input("Ingrese un número del 1 al 10: ")
 
-
-
+if int(num3) in range(1,11):
+    print("Número válido.")
+else:
+    print("El número ingresado esta fuera del rango. ")
+    
 
 # ============================================
 # BLOQUE 5: BUCLE FOR
@@ -278,9 +306,12 @@ print("=" * 50)
 # Creá una lista de colores
 # Recorrela con for e imprimí: "Me gusta el color [color]"
 
-# TU CÓDIGO AQUÍ:
+colores = ["azul", "verde", "rojo", "blanco", "negro"]
 
-
+for color in colores:
+    if color == "rojo":
+        print(f"Me gusta el color {color}")
+    
 
 
 print("\n" + "=" * 50)
@@ -289,9 +320,17 @@ print("=" * 50)
 # Imprimí los números del 1 al 10 usando for y range()
 # Después imprimí solo los números pares del 0 al 20
 
-# TU CÓDIGO AQUÍ:
+print(f"Numeros del 1 al 10:")
+for num in range(1, 11):
+    print(f"Nro: {num}")
+    
+    
+print(f"-" * 50)
 
-
+print(f"Numeros Pares:")
+for num in range(1, 21):
+    if num % 2 == 0:
+        print(num)
 
 
 print("\n" + "=" * 50)
@@ -303,8 +342,13 @@ print("=" * 50)
 # "Tarea 2: ejercicio"
 # etc.
 
-# TU CÓDIGO AQUÍ:
+tareas = ["estudiar", "ejercicio", "cocinar"]
+key = 1
 
+for tarea in enumerate(tareas):
+    value = tarea[1]
+    print(f"Tarea {key}: {value}")
+    key +=1
 
 
 
@@ -314,9 +358,15 @@ print("=" * 50)
 # Creá un diccionario de precios: {"manzana": 50, "banana": 30}
 # Recorrelo mostrando: "La manzana cuesta $50"
 
-# TU CÓDIGO AQUÍ:
+dicc_precios = {
+        "manzana": 50, 
+        "banana": 30
+        }
 
-
+for fruta, precio in dicc_precios.items():
+    if fruta == "manzana":
+        print(f"La {fruta} cuesta ${precio}")
+    
 
 
 print("\n" + "=" * 50)
@@ -325,9 +375,15 @@ print("=" * 50)
 # Imprimí una tabla de multiplicar del 1 al 5
 # Formato: 1 x 1 = 1, 1 x 2 = 2, etc.
 
-# TU CÓDIGO AQUÍ:
+num1 = 1
 
-
+for multi in range(1,11):
+    print(f"\n")
+    print(f"Tabla del {multi}:")
+    print(f"------------------") 
+    for num1 in range(1,6) :
+        print(f"{multi} x {num1} = {multi * num1}")
+        
 
 
 # ============================================
@@ -340,7 +396,11 @@ print("=" * 50)
 # Contá del 1 al 10 usando while
 # Imprimí cada número
 
-# TU CÓDIGO AQUÍ:
+numero = 1
+print("Numeros del 1 al 10:")
+while numero <= 10:
+    print(numero)
+    numero += 1
 
 
 
@@ -352,9 +412,11 @@ print("=" * 50)
 # Dividilo por 2 en cada iteración mientras sea mayor a 1
 # Imprimí cada resultado
 
-# TU CÓDIGO AQUÍ:
+numero = 100 
 
-
+while numero > 1:
+    print(f"{numero} / 2 = {numero / 2}")
+    numero = numero / 2
 
 
 print("\n" + "=" * 50)
@@ -364,8 +426,16 @@ print("=" * 50)
 # Si ingresa 0, salí del bucle con break
 # Calculá y mostrá la suma de todos los números ingresados
 
-# TU CÓDIGO AQUÍ:
 
+numero_in = input("Ingrese un nro: ")
+suma = 0
+
+while int(numero_in) != "0":
+    suma = suma + int(numero_in)
+    numero_in = input("Ingrese un nro: ")
+    if int(numero_in) == 0:
+        print(f"La suma de todos los nros es: {suma}")
+        break
 
 
 
@@ -377,4 +447,16 @@ print("=" * 50)
 # Usá while para seguir pidiendo hasta que acierte
 # Dale pistas: "muy alto" o "muy bajo"
 
-# TU CÓDIGO AQUÍ:
+num_sec = 5
+
+numero_ent = input("Ingresa un numero: ")
+
+while int(numero_ent) != num_sec:
+    if int(numero_ent) < num_sec:
+        print("Muy bajo")
+        numero_ent = input("Ingresa otro numero: ")
+    if int(numero_ent) > num_sec:
+        print("Muy alto")
+        numero_ent = input("Ingresa otro numero: ")
+    if int(numero_ent) == num_sec:
+        print("Felicidades es el numero correcto !")
