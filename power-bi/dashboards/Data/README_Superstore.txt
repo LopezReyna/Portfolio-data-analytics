@@ -1,3 +1,5 @@
+# 📊 Dashboards Power BI
+
 ## Dashboard Superstore - Análisis de Ventas
 
 **Archivo:** `Dashboard_Superstore_Modulo3.pbix`
@@ -33,7 +35,7 @@ Análisis completo de datos de ventas de la empresa Superstore utilizando visual
 - Formato condicional en matriz (escalas verde-amarillo-rojo)
 - Paleta de colores tipo semáforo para análisis visual rápido
 
-![Página 1 - Tablas y Matrices](screenshots/pagina1_tablas_matrices.png)
+![Página 1 - Tablas y Matrices](screenshots/Página 1 Tablas-Matrices-Clasificación.png)
 
 ---
 
@@ -52,7 +54,7 @@ Análisis completo de datos de ventas de la empresa Superstore utilizando visual
 - Formato condicional avanzado
 - Análisis de correlación entre variables
 
-![Página 2 - Análisis Geográfico](screenshots/pagina2_geografico_jerarquias.png)
+![Página 2 - Análisis Geográfico](screenshots/Página 2 Análisis Geográfico.png)
 
 ---
 
@@ -160,8 +162,8 @@ power-bi/dashboards/
 │   ├── pagina1_tablas_matrices.png
 │   └── pagina2_geografico_jerarquias.png
 ├── data/
-│   └── Superstore_ES.csv
-└── README.md
+│   ├── Superstore_ES.csv
+│   └── README_Superstore.md
 ```
 
 ---
@@ -176,7 +178,7 @@ power-bi/dashboards/
 
 ---
 
-**Fecha de creación:** Noviembre 2025
+**Fecha de creación:** Noviembre 2024  
 **Herramienta:** Microsoft Power BI Desktop  
 **Nivel:** Intermedio  
 **Tiempo de desarrollo:** 2 días
