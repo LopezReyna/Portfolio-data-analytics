@@ -37,6 +37,21 @@ Apasionado por transformar datos en insights accionables. Actualmente desarrolla
   - Jerarquías y navegación drill-down
   - Slicers y filtros interactivos
   - 2 páginas de análisis + dashboard integrado
+  
+- ✅ [Dashboard Empleados](power-bi/dashboards/) - Proyecto completado
+  - Visualizaciones: Gráficos de barras y columnas, Tarjetas, Tabla, Segmentación de datos
+  - Formato condicional con escalas de color
+  - Títulos y subtítulos descriptivos
+  - Utilización de imágenes
+  - Creación de medidas
+  - Creación de columnas condicionales
+  
+✅ [Dashboard Concesionario](power-bi/dashboards/) - Proyecto completado
+  - Visualizaciones: Tarjetas, Gráficos de columnas y barras, Segmentación de datos
+  - Creación de diferentes medidas
+  - Utilización de imágenes
+  - Etiquetas de datos en gráficos de barras
+  
 
 ## 🛠️ Tecnologías
 
