@@ -1,0 +1,152 @@
+# ?? Dashboards Power BI
+
+## Dashboard Empleados 
+
+**Archivo:** `Dashboard_Empleados.pbix`
+
+### ?? Objetivo
+Desarrollar un dashboard interactivo de Recursos Humanos que permita analizar la composici車n de los empleados desde distintas dimensiones: edad, g谷nero, sueldo, desempe?o, departamento y ubicaci車n, facilitando la toma de decisiones estrat谷gicas y el an芍lisis exploratorio de datos.
+
+Este dashboard est芍 orientado a demostrar habilidades en Power BI, modelado de datos, visualizaci車n, dise?o y storytelling con datos, enfocado en un caso t赤pico de RRHH.
+
+### ?? Dataset
+- **Fuente:** BD_RRHH_Empleados.csv
+- **Registros:** 196 empleados
+- **Alcance geogr芍fico:** Esados Unidos
+
+---
+
+## ?? Estructura del Dashboard
+
+### Reporte A
+**Objetivo:** Brindar una visi車n general de la plantilla de empleados, combinando indicadores clave con an芍lisis demogr芍fico, salarial y organizacional.
+
+### KPIs Principales
+
+- Total de Empleados
+- Promedio de Edad
+- Promedio de Sueldo
+- Promedio de Evaluaci車n
+
+Estos indicadores permiten obtener una lectura r芍pida del estado general de la organizaci車n.
+
+**Visualizaciones:**
+Botones:
+- Reporte A
+- Repore B
+- Reporte C
+Filtros (segmentadores):
+- Estado
+Gr芍ficos:
+- Empleados por rango de edad
+- Empleados por evaluaci車n de desempe?o
+- Empleados por rango salarial
+- Empleados por g谷nero
+- Empleados por departamento
+Tabla detallada:
+- Listado de empleados con nombre, g谷nero, estado y departamento
+
+Interactividad
+- Todos los gr芍ficos est芍n conectados entre s赤
+- Los filtros afectan a la totalidad del dashboard
+- Navegaci車n mediante botones entre Reporte A, B y C
+
+**T谷cnicas aplicadas:**
+Power BI / DAX
+- Creaci車n de medidas para:
+	- Promedios
+	- Conteos
+	- Agrupaciones por rangos
+- Uso de segmentadores para an芍lisis din芍mico
+- Modelado de datos simple y eficiente
+
+Power Query
+- Importaci車n de archivos CSV
+- Limpieza y normalizaci車n de datos
+- Creaci車n de columnas auxiliares para rangos de edad, sueldo y evaluaci車n
+
+![Dashboard_Empleados.png](screenshots/Dashboard_Empleados.png)
+
+---
+
+## ??? Habilidades T谷cnicas Demostradas
+
+### Power Query
+- Importaci車n y transformaci車n de datos desde MySQL
+- Configuraci車n regional para correcta interpretaci車n de decimales
+- Creaci車n de columnas condicionales
+- Creaci車n de medidas
+- Limpieza y preparaci車n de datos
+
+### Visualizaciones
+- Gr芍ficos de barras y columnas
+- Tarjetas
+- Segmentaci車n de datos
+
+### Formato y Dise?o
+- Formato condicional con escalas de color
+- Barras de datos en visualizaciones
+- Paletas de colores consistentes
+- Dise?o responsive y balanceado
+- T赤tulos y subt赤tulos descriptivos
+- Utilizaci車n de im芍genes
+- Uso de bordes redondeados y fondos suaves para una est谷tica moderna
+- Dashboard optimizado para lectura ejecutiva
+
+---
+
+## ?? Insights Principales
+
+### An芍lisis de Empleados
+- La empresa cuenta con 194 empleados activos, con una edad promedio cercana a los 45 a?os.
+- La mayor concentraci車n de empleados se encuentra en los rangos etarios intermedios.
+- La distribuci車n de g谷nero es relativamente equilibrada.
+- Producci車n y Tecnolog赤a de la Informaci車n concentran la mayor cantidad de empleados.
+- La mayor赤a de los sueldos se agrupan en rangos medios, con oportunidades para an芍lisis de equidad salarial.
+- El promedio de evaluaci車n indica un nivel general de desempe?o positivo.
+
+---
+
+## ?? Aprendizajes y Desaf赤os
+
+### Aprendizajes
+- Dise?o de dashboards enfocados en RRHH y an芍lisis organizacional
+- Uso de KPIs claros para audiencias no t谷cnicas
+- Importancia de la segmentaci車n por rangos para mejorar la interpretaci車n
+- Integraci車n de tablas detalladas con visualizaciones resumidas
+- Mejora en criterios de dise?o visual y experiencia de usuario
+
+### Desaf赤os
+- Definir rangos adecuados para edad, sueldo y evaluaci車n
+- Mantener claridad visual con m繳ltiples gr芍ficos en una sola p芍gina
+- Lograr un dise?o atractivo sin perder foco anal赤tico
+- Balancear detalle y visi車n general en un mismo dashboard
+
+---
+
+## ?? Archivos Incluidos
+```
+power-bi/dashboards/
+念岸岸 Dashboard_Superstore_Modulo3.pbix
+念岸岸 screenshots/
+岫   念岸岸 Dashboard_Empleados.png
+念岸岸 data/
+岫   念岸岸 BD_RRHH_Empleados.xlsx
+岫   弩岸岸 README_Empleados.xlsx
+```
+
+---
+
+## ?? C車mo Abrir el Dashboard
+
+1. Descargar **Power BI Desktop** (gratuito) desde Microsoft
+2. Abrir el archivo `Dashboard_Empleados.pbix`
+3. Explorar las p芍ginas usando las pesta?as inferiores
+4. Interactuar con filtros y visualizaciones
+
+---
+
+**Fecha de creaci車n:** Febrero 2026  
+**Herramienta:** Microsoft Power BI Desktop  
+**Nivel:** Intermedio  
+**Tiempo de desarrollo:** 2 d赤as
