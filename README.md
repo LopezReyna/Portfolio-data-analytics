@@ -46,7 +46,7 @@ Apasionado por transformar datos en insights accionables. Actualmente desarrolla
   - Creación de medidas
   - Creación de columnas condicionales
   
-✅ [Dashboard Concesionario](power-bi/dashboards/) - Proyecto completado
+- ✅ [Dashboard Concesionario](power-bi/dashboards/) - Proyecto completado
   - Visualizaciones: Tarjetas, Gráficos de columnas y barras, Segmentación de datos
   - Creación de diferentes medidas
   - Utilización de imágenes
