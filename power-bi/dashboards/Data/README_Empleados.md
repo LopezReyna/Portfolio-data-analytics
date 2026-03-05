@@ -65,11 +65,11 @@ Power Query
 - Limpieza y normalización de datos
 - Creación de columnas auxiliares para rangos de edad, sueldo y evaluación
 
-![Reporte A](screenshots/Dashboard_Empleados.png)
+![Dashboard_Empleados.png](screenshots/Dashboard_Empleados.png)
 
 ---
 
-## 🛠️ Habilidades Técnicas Demostradas
+## 🛠�?Habilidades Técnicas Demostradas
 
 ### Power Query
 - Importación y transformación de datos desde MySQL
@@ -129,10 +129,10 @@ Power Query
 power-bi/dashboards/
 ├── Dashboard_Empleados.pbix
 ├── screenshots/
-│   ├── Dashboard_Empleados.png
+�?  ├── Dashboard_Empleados.png
 ├── data/
-│   ├── BD_RRHH_Empleados.xlsx
-│   └── README_Empleados.md
+�?  ├── BD_RRHH_Empleados.xlsx
+�?  └── README_Empleados.md
 ```
 
 ---
