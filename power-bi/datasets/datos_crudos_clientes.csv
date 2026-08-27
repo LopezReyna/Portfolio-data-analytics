@@ -1,0 +1,151 @@
+ID_Cliente,Genero,Adulto_Mayor,Tiene_Pareja,Personas_a_Cargo,Meses_Antiguedad,Servicio_Telefonico,Lineas_Multiples,Servicio_Internet,Seguridad_Online,Respaldo_Online,Proteccion_Dispositivo,Soporte_Tecnico,TV_Streaming,Peliculas_Streaming,Contrato,Facturacion_Electronica,Metodo_Pago,Cargos_Mensuales,Cargos_Totales,Fuga_Cliente
+CLI-0001,Masculino,0,No,Si,3,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,No,Tarjeta de credito,35.0,100.06,Si
+CLI-0002,Masculino,0,No,Si,19,Si,Si,Fibra optica,No,No,No,Si,Si,No,Contrato de 1 ano,Si,Tarjeta de credito,91.0,1708.24,No
+CLI-0003,Femenino,1,Si,No,27,No,Sin servicio telefonico,DSL,Si,No,No,Si,Si,Si,Contrato de 2 anos,Si,Cheque electronico,77.0,2179.88,No
+CLI-0004,Masculino,1,No,No,43,Si,No,Fibra optica,No,Si,Si,Si,Si,No,Contrato de 2 anos,No,Cheque electronico,102.0,4600.7,No
+CLI-0005,Masculino,1,Si,Si,6,Si,Si,Fibra optica,No,Si,No,No,No,Si,Mes a mes,No,Transferencia bancaria,91.0,532.17,Si
+CLI-0006,Femenino,1,No,No,3,Si,Si,Fibra optica,Si,Si,Si,No,Si,No,Mes a mes,No,Cheque enviado por correo,107.0,321.93,No
+CLI-0007,Masculino,0,No,No,5,Si,No,Fibra optica,No,Si,Si,No,Si,Si,Mes a mes,No,Transferencia bancaria,102.0,512.01,Si
+CLI-0008,Masculino,1,No,Si,6,Si,No,Fibra optica,Si,Si,Si,Si,No,Si,Mes a mes,Si,Transferencia bancaria,110.0,670.54,No
+CLI-0009,Masculino,1,No,Si,68,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 2 anos,No,Cheque enviado por correo,35.0,2497.85,No
+CLI-0010,Femenino,1,Si,Si,2,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,Si,Tarjeta de credito,35.0,67.0,Si
+CLI-0011,Masculino,0,Si,No,9,Si,No,Fibra optica,Si,No,Si,No,No,Si,Mes a mes,Si,Tarjeta de credito,94.0,859.45,Si
+CLI-0012,Femenino,1,Si,Si,7,Si,Si,Fibra optica,Si,Si,No,Si,No,Si,Mes a mes,No,Cheque enviado por correo,107.0,730.26,No
+CLI-0013,Femenino,0,Si,Si,4,Si,No,DSL,Si,No,Si,Si,No,Si,Mes a mes,No,Cheque electronico,87.0,362.84,No
+CLI-0014,Femenino,1,No,Si,5,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,Si,Cheque electronico,35.0,167.25,Si
+CLI-0015,Masculino,0,Si,Si,10,Si,Si,DSL,Si,Si,Si,Si,No,No,Mes a mes,No,Transferencia bancaria,92.0,935.61,Si
+CLI-0016,Femenino,1,Si,No,15,No,Sin servicio telefonico,Fibra optica,Si,No,Si,Si,Si,No,Contrato de 1 ano,Si,Cheque electronico,92.0,1432.56,No
+CLI-0017,Femenino,1,Si,No,65,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 2 anos,No,Tarjeta de credito,35.0,2374.86,No
+CLI-0018,Masculino,0,Si,No,19,Si,No,Fibra optica,No,No,No,Si,Si,No,Contrato de 1 ano,No,Tarjeta de credito,86.0,1552.88,No
+CLI-0019,Femenino,0,No,No,20,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 2 anos,Si,Cheque electronico,35.0,705.78,No
+CLI-0020,Masculino,0,No,No,6,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,Si,Cheque electronico,35.0,215.88,No
+CLI-0021,Femenino,0,Si,Si,7,Si,No,DSL,Si,No,Si,Si,No,Si,Mes a mes,No,Transferencia bancaria,87.0,590.7,No
+CLI-0022,Femenino,1,Si,Si,11,Si,No,DSL,Si,No,No,No,No,Si,Mes a mes,Si,Cheque electronico,71.0,755.9,No
+CLI-0023,Femenino,0,Si,No,21,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 1 ano,Si,Cheque enviado por correo,30.0,655.17,No
+CLI-0024,Masculino,1,Si,Si,16,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 1 ano,No,Tarjeta de credito,30.0,490.55,No
+CLI-0025,Femenino,1,No,No,38,Si,Si,DSL,No,Si,No,No,Si,No,Contrato de 2 anos,No,Transferencia bancaria,76.0,2867.75,No
+CLI-0026,Femenino,1,No,No,33,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 2 anos,Si,Cheque electronico,35.0,1156.78,No
+CLI-0027,Femenino,0,Si,No,4,Si,Si,Fibra optica,No,Si,No,No,Si,No,Mes a mes,No,Cheque enviado por correo,91.0,354.68,Si
+CLI-0028,Masculino,0,No,Si,12,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,Si,Tarjeta de credito,35.0,418.17,No
+CLI-0029,Femenino,1,No,No,12,Si,No,DSL,Si,No,No,Si,No,No,Mes a mes,Si,Cheque electronico,71.0,829.38,Si
+CLI-0030,Masculino,0,Si,Si,21,Si,Si,Fibra optica,No,No,No,No,No,Si,Contrato de 1 ano,Si,Cheque enviado por correo,83.0,1723.74,No
+CLI-0031,Masculino,1,No,Si,14,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 1 ano,Si,Cheque enviado por correo,30.0,408.22,No
+CLI-0032,Masculino,1,No,No,30,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 2 anos,Si,Cheque enviado por correo,35.0,1059.65,No
+CLI-0033,Masculino,1,Si,No,1,Si,No,Fibra optica,No,No,No,No,No,No,Mes a mes,No,Tarjeta de credito,70.0,69.79,Si
+CLI-0034,Masculino,1,Si,Si,22,Si,Si,Fibra optica,Si,Si,Si,Si,No,Si,Contrato de 2 anos,Si,Cheque enviado por correo,115.0,2580.46,No
+CLI-0035,Masculino,0,Si,No,10,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,No,Cheque enviado por correo,30.0,313.24,Si
+CLI-0036,Masculino,0,No,Si,70,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 2 anos,No,Tarjeta de credito,30.0,2101.25,No
+CLI-0037,Femenino,1,Si,No,20,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 1 ano,Si,Cheque enviado por correo,30.0,580.57,No
+CLI-0038,Femenino,1,No,No,57,Si,Si,Fibra optica,No,No,Si,No,No,No,Contrato de 2 anos,Si,Cheque enviado por correo,83.0,4897.04,Si
+CLI-0039,Masculino,1,No,No,24,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 1 ano,Si,Transferencia bancaria,30.0,690.16,No
+CLI-0040,Femenino,0,No,No,22,Si,No,Fibra optica,No,Si,No,No,No,No,Contrato de 1 ano,No,Cheque electronico,78.0,1690.57,No
+CLI-0041,Femenino,1,Si,Si,32,Si,Si,Fibra optica,Si,No,No,No,Si,Si,Contrato de 2 anos,No,Transferencia bancaria,99.0,3123.93,No
+CLI-0042,Masculino,1,Si,Si,38,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 2 anos,No,Tarjeta de credito,35.0,1379.57,No
+CLI-0043,Femenino,1,No,No,1,Si,No,Fibra optica,Si,No,No,Si,Si,Si,Mes a mes,Si,Cheque electronico,102.0,97.77,Si
+CLI-0044,Femenino,0,No,No,14,Si,No,DSL,Si,Si,Si,Si,No,Si,Contrato de 1 ano,Si,Transferencia bancaria,95.0,1286.62,Si
+CLI-0045,Masculino,1,No,No,10,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 1 ano,No,Tarjeta de credito,30.0,305.62,No
+CLI-0046,Masculino,1,Si,Si,29,No,Sin servicio telefonico,Fibra optica,Si,Si,Si,No,No,No,Contrato de 2 anos,Si,Cheque enviado por correo,84.0,2481.96,No
+CLI-0047,Femenino,1,No,Si,22,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 2 anos,No,Tarjeta de credito,30.0,633.03,No
+CLI-0048,Masculino,1,Si,Si,18,Si,No,Fibra optica,No,No,Si,No,No,No,Contrato de 1 ano,No,Cheque electronico,78.0,1427.89,No
+CLI-0049,Femenino,1,No,No,45,Si,Si,DSL,Si,No,No,No,Si,No,Contrato de 2 anos,Si,Cheque enviado por correo,76.0,3390.33,Si
+CLI-0050,Femenino,1,No,Si,5,Si,No,DSL,No,Si,Si,Si,Si,No,Mes a mes,Si,Cheque enviado por correo,87.0,417.3,No
+CLI-0051,Masculino,1,Si,Si,24,Si,No,DSL,No,No,Si,No,Si,No,Contrato de 1 ano,Si,Transferencia bancaria,71.0,1766.03,No
+CLI-0052,Femenino,1,No,Si,21,Si,No,Fibra optica,No,No,No,No,No,No,Contrato de 1 ano,No,Transferencia bancaria,70.0,1540.67,Si
+CLI-0053,Femenino,0,No,Si,21,Si,No,DSL,Si,No,Si,Si,No,Si,Contrato de 1 ano,No,Tarjeta de credito,87.0,1831.74,No
+CLI-0054,Masculino,1,Si,Si,22,No,Sin servicio telefonico,DSL,No,Si,No,No,No,No,Contrato de 1 ano,Si,Tarjeta de credito,53.0,1135.07,No
+CLI-0055,Femenino,0,Si,No,11,Si,Si,DSL,Si,No,Si,Si,No,Si,Mes a mes,No,Cheque electronico,92.0,999.33,Si
+CLI-0056,Femenino,0,Si,Si,10,Si,Si,DSL,Si,Si,No,No,No,No,Mes a mes,Si,Cheque enviado por correo,76.0,790.49,No
+CLI-0057,Masculino,0,No,No,39,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 2 anos,No,Cheque enviado por correo,30.0,1210.4,No
+CLI-0058,Femenino,1,Si,Si,19,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 1 ano,No,Tarjeta de credito,30.0,597.24,No
+CLI-0059,Femenino,0,Si,No,22,Si,No,Fibra optica,Si,No,Si,Si,Si,No,Contrato de 1 ano,No,Tarjeta de credito,102.0,2261.86,No
+CLI-0060,Masculino,1,No,No,4,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,No,Transferencia bancaria,30.0,117.08,No
+CLI-0061,Femenino,1,No,Si,11,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 1 ano,No,Cheque electronico,35.0,369.23,No
+CLI-0062,Femenino,0,No,No,67,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 2 anos,No,Tarjeta de credito,30.0,2045.14,No
+CLI-0063,Femenino,0,Si,No,39,Si,Si,Fibra optica,Si,Si,No,No,Si,Si,Contrato de 2 anos,Si,Transferencia bancaria,107.0,4126.53,No
+CLI-0064,Femenino,0,No,Si,19,Si,No,Fibra optica,No,Si,No,No,Si,No,Contrato de 1 ano,Si,Cheque electronico,86.0,1641.27,No
+CLI-0065,Femenino,0,No,No,2,No,Sin servicio telefonico,DSL,Si,Si,Si,Si,No,Si,Mes a mes,Si,Transferencia bancaria,85.0,162.67,No
+CLI-0066,Masculino,0,Si,No,10,Si,Si,Fibra optica,No,Si,Si,Si,Si,Si,Mes a mes,No,Transferencia bancaria,115.0,1160.22,Si
+CLI-0067,Femenino,0,Si,No,27,Si,No,DSL,No,Si,No,Si,Si,No,Contrato de 2 anos,No,Tarjeta de credito,79.0,2039.32,No
+CLI-0068,Femenino,1,Si,No,48,Si,Si,DSL,Si,Si,Si,No,No,No,Contrato de 2 anos,No,Cheque enviado por correo,84.0,4034.24,No
+CLI-0069,Masculino,0,No,No,7,Si,No,DSL,No,Si,No,No,No,No,Mes a mes,No,Transferencia bancaria,63.0,449.24,Si
+CLI-0070,Masculino,0,Si,No,12,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,Si,Cheque electronico,35.0,427.14,Si
+CLI-0071,Femenino,0,No,No,11,Si,Si,Fibra optica,No,Si,Si,No,No,Si,Contrato de 1 ano,No,Transferencia bancaria,99.0,1122.46,No
+CLI-0072,Masculino,1,Si,Si,21,Si,No,DSL,Si,Si,Si,No,Si,Si,Contrato de 1 ano,Si,Tarjeta de credito,95.0,2044.1,No
+CLI-0073,Femenino,1,No,Si,14,Si,Si,Fibra optica,Si,Si,Si,Si,No,No,Contrato de 1 ano,No,Cheque enviado por correo,107.0,1514.04,No
+CLI-0074,Masculino,0,No,No,5,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,No,Tarjeta de credito,30.0,145.81,No
+CLI-0075,Masculino,0,Si,No,3,Si,No,DSL,Si,Si,No,No,Si,Si,Mes a mes,No,Transferencia bancaria,87.0,261.01,No
+CLI-0076,Femenino,0,No,Si,10,Si,Si,DSL,No,No,No,No,Si,No,Contrato de 1 ano,Si,Cheque electronico,68.0,657.69,No
+CLI-0077,Femenino,1,Si,No,4,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,Si,Cheque enviado por correo,30.0,124.45,No
+CLI-0078,Masculino,1,Si,Si,60,Si,Si,DSL,No,Si,Si,Si,Si,No,Contrato de 2 anos,Si,Transferencia bancaria,92.0,5576.52,No
+CLI-0079,Masculino,0,No,No,68,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 2 anos,No,Transferencia bancaria,30.0,2027.71,No
+CLI-0080,Femenino,1,Si,No,24,Si,No,Fibra optica,Si,No,No,Si,Si,No,Contrato de 2 anos,No,Tarjeta de credito,94.0,2244.66,No
+CLI-0081,Masculino,1,No,Si,8,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,Si,Transferencia bancaria,30.0,228.94,No
+CLI-0082,Femenino,0,No,No,16,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 1 ano,Si,Cheque electronico,30.0,459.16,Si
+CLI-0083,Femenino,1,No,Si,11,Si,Si,DSL,No,No,Si,Si,No,No,Contrato de 1 ano,No,Transferencia bancaria,76.0,850.22,No
+CLI-0084,Masculino,1,No,Si,14,Si,Si,DSL,No,Si,Si,Si,Si,Si,Contrato de 1 ano,No,Tarjeta de credito,100.0,1401.08,No
+CLI-0085,Masculino,1,Si,No,3,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,No,Tarjeta de credito,35.0,104.06,Si
+CLI-0086,Masculino,1,No,No,9,Si,No,Fibra optica,No,No,No,No,No,No,Mes a mes,Si,Transferencia bancaria,70.0,648.98,Si
+CLI-0087,Femenino,0,No,No,26,Si,Si,DSL,Si,Si,No,No,Si,No,Contrato de 2 anos,Si,Transferencia bancaria,84.0,2253.17,No
+CLI-0088,Masculino,1,Si,No,43,Si,Si,DSL,Si,Si,No,Si,No,Si,Contrato de 2 anos,Si,Tarjeta de credito,92.0,3871.69,No
+CLI-0089,Masculino,1,No,Si,1,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,No,Tarjeta de credito,35.0,35.97,Si
+CLI-0090,Masculino,0,Si,No,70,Si,Si,Fibra optica,No,Si,Si,Si,No,No,Contrato de 2 anos,Si,Cheque electronico,99.0,6750.21,No
+CLI-0091,Masculino,1,Si,Si,23,Si,No,DSL,No,Si,No,Si,No,Si,Contrato de 1 ano,Si,Cheque electronico,79.0,1750.39,No
+CLI-0092,Femenino,0,No,No,31,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 2 anos,No,Tarjeta de credito,35.0,1062.59,Si
+CLI-0093,Masculino,0,No,No,45,No,Sin servicio telefonico,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 2 anos,No,Cheque electronico,20.0,858.3,No
+CLI-0094,Femenino,1,Si,No,11,Si,No,DSL,No,No,No,Si,No,No,Contrato de 1 ano,No,Cheque electronico,63.0,713.87,No
+CLI-0095,Masculino,1,Si,No,11,Si,No,DSL,No,No,Si,No,No,No,Contrato de 1 ano,Si,Cheque electronico,63.0,700.96,No
+CLI-0096,Masculino,0,No,No,71,Si,Si,Fibra optica,Si,No,Si,Si,Si,Si,Contrato de 2 anos,No,Cheque electronico,115.0,8069.35,No
+CLI-0097,Masculino,1,No,No,22,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 1 ano,No,Cheque enviado por correo,35.0,755.71,No
+CLI-0098,Masculino,0,Si,No,44,No,Sin servicio telefonico,Fibra optica,No,No,No,Si,No,No,Contrato de 2 anos,Si,Tarjeta de credito,68.0,2883.01,Si
+CLI-0099,Masculino,1,Si,No,42,Si,No,DSL,Si,Si,No,Si,Si,Si,Contrato de 2 anos,Si,Transferencia bancaria,95.0,4105.86,Si
+CLI-0100,Femenino,1,Si,Si,5,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,No,Cheque enviado por correo,30.0,154.85,Si
+CLI-0101,Femenino,0,No,No,53,Si,Si,Fibra optica,No,Si,Si,Si,No,Si,Contrato de 2 anos,Si,Cheque electronico,107.0,5917.54,No
+CLI-0102,Femenino,0,No,Si,55,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 2 anos,Si,Transferencia bancaria,30.0,1665.15,No
+CLI-0103,Masculino,1,Si,Si,1,No,Sin servicio telefonico,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,No,Transferencia bancaria,20.0,20.53,Si
+CLI-0104,Masculino,1,No,No,13,Si,No,DSL,No,Si,Si,Si,No,No,Contrato de 1 ano,No,Cheque enviado por correo,79.0,996.6,No
+CLI-0105,Femenino,1,No,No,6,Si,Si,DSL,Si,No,Si,No,No,Si,Mes a mes,Si,Tarjeta de credito,84.0,481.35,No
+CLI-0106,Femenino,0,Si,No,66,Si,Si,DSL,No,No,No,No,Si,Si,Contrato de 2 anos,No,Cheque enviado por correo,76.0,5250.09,No
+CLI-0107,Femenino,0,Si,No,19,Si,No,DSL,Si,Si,No,Si,No,No,Contrato de 1 ano,No,Cheque electronico,79.0,1432.74,Si
+CLI-0108,Masculino,1,No,Si,18,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 1 ano,Si,Transferencia bancaria,30.0,565.65,No
+CLI-0109,Femenino,1,Si,Si,52,Si,Si,Fibra optica,Si,Si,No,No,No,Si,Contrato de 2 anos,Si,Cheque electronico,99.0,5370.07,No
+CLI-0110,Femenino,1,No,No,56,Si,Si,DSL,No,Si,No,No,Si,No,Contrato de 2 anos,No,Transferencia bancaria,76.0,4350.23,No
+CLI-0111,Masculino,1,Si,Si,10,No,Sin servicio telefonico,Fibra optica,Si,Si,No,No,No,Si,Mes a mes,No,Transferencia bancaria,84.0,832.47,No
+CLI-0112,Femenino,0,Si,Si,40,No,Sin servicio telefonico,DSL,No,No,Si,No,No,No,Contrato de 2 anos,No,Cheque enviado por correo,53.0,2054.76,No
+CLI-0113,Femenino,0,No,No,33,Si,No,DSL,No,No,No,No,Si,No,Contrato de 2 anos,No,Cheque electronico,63.0,2173.51,No
+CLI-0114,Femenino,0,No,Si,24,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 1 ano,No,Transferencia bancaria,30.0,698.55,No
+CLI-0115,Femenino,0,Si,Si,1,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,Si,Tarjeta de credito,35.0,33.6,Si
+CLI-0116,Femenino,0,Si,Si,30,Si,No,DSL,Si,No,No,No,Si,Si,Contrato de 2 anos,Si,Tarjeta de credito,79.0,2467.94,Si
+CLI-0117,Masculino,0,No,No,12,No,Sin servicio telefonico,DSL,Si,Si,No,Si,No,No,Mes a mes,No,Cheque enviado por correo,69.0,860.23,Si
+CLI-0118,Femenino,1,Si,Si,12,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 1 ano,Si,Tarjeta de credito,30.0,368.52,No
+CLI-0119,Masculino,0,No,No,40,Si,Si,Fibra optica,Si,No,No,Si,Si,No,Contrato de 2 anos,No,Transferencia bancaria,99.0,3938.91,No
+CLI-0120,Femenino,1,Si,No,43,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 2 anos,Si,Cheque enviado por correo,35.0,1475.92,No
+CLI-0121,Femenino,0,No,No,34,Si,Si,DSL,Si,No,No,No,No,Si,Contrato de 2 anos,Si,Tarjeta de credito,76.0,2590.59,No
+CLI-0122,Femenino,0,Si,Si,52,Si,Si,Fibra optica,No,No,Si,Si,No,Si,Contrato de 2 anos,No,Tarjeta de credito,99.0,5124.03,No
+CLI-0123,Femenino,0,No,No,21,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 2 anos,Si,Tarjeta de credito,35.0,701.58,No
+CLI-0124,Masculino,0,Si,No,5,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,No,Cheque electronico,35.0,183.62,Si
+CLI-0125,Femenino,1,Si,Si,42,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 2 anos,Si,Transferencia bancaria,30.0,1302.19,No
+CLI-0126,Femenino,1,No,No,4,Si,Si,DSL,Si,Si,Si,No,Si,Si,Mes a mes,Si,Tarjeta de credito,100.0,384.04,Si
+CLI-0127,Masculino,0,Si,No,13,Si,Si,Fibra optica,No,Si,No,No,Si,No,Contrato de 1 ano,Si,Transferencia bancaria,91.0,1172.77,Si
+CLI-0128,Masculino,1,No,Si,20,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 1 ano,No,Cheque enviado por correo,30.0,578.95,No
+CLI-0129,Femenino,0,Si,No,29,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 2 anos,No,Cheque enviado por correo,35.0,1020.81,No
+CLI-0130,Masculino,1,Si,No,25,No,Sin servicio telefonico,DSL,Si,Si,Si,No,No,Si,Contrato de 2 anos,Si,Transferencia bancaria,77.0,1983.65,No
+CLI-0131,Masculino,1,Si,No,24,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 1 ano,Si,Cheque enviado por correo,35.0,874.81,No
+CLI-0132,Masculino,1,Si,No,16,Si,No,DSL,No,No,No,No,Si,No,Contrato de 1 ano,No,Transferencia bancaria,63.0,994.97,No
+CLI-0133,Masculino,0,Si,No,57,Si,No,DSL,Si,Si,No,Si,No,Si,Contrato de 2 anos,No,Cheque electronico,87.0,4838.66,No
+CLI-0134,Femenino,1,Si,No,3,Si,No,Fibra optica,Si,Si,Si,Si,Si,No,Mes a mes,Si,Transferencia bancaria,110.0,315.74,Si
+CLI-0135,Masculino,1,No,Si,60,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 2 anos,No,Tarjeta de credito,30.0,1711.19,No
+CLI-0136,Masculino,0,No,No,9,Si,No,Fibra optica,Si,Si,Si,Si,Si,No,Mes a mes,No,Cheque electronico,110.0,1019.2,Si
+CLI-0137,Femenino,1,Si,Si,20,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 1 ano,Si,Tarjeta de credito,35.0,693.37,No
+CLI-0138,Femenino,0,Si,Si,8,Si,No,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Mes a mes,Si,Tarjeta de credito,30.0,233.51,No
+CLI-0139,Femenino,1,Si,Si,37,Si,Si,Fibra optica,No,Si,Si,Si,No,Si,Contrato de 2 anos,No,Transferencia bancaria,107.0,3984.32,No
+CLI-0140,Femenino,1,No,Si,66,Si,No,Fibra optica,Si,No,Si,Si,No,No,Contrato de 2 anos,No,Tarjeta de credito,94.0,6287.21,No
+CLI-0141,Femenino,1,Si,No,44,Si,No,Fibra optica,No,Si,Si,Si,No,Si,Contrato de 2 anos,No,Transferencia bancaria,102.0,4595.56,No
+CLI-0142,Masculino,0,Si,No,15,Si,Si,Fibra optica,Si,Si,No,No,No,Si,Contrato de 1 ano,Si,Tarjeta de credito,99.0,1463.31,Si
+CLI-0143,Femenino,1,Si,No,16,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 1 ano,Si,Cheque enviado por correo,35.0,541.49,No
+CLI-0144,Femenino,1,Si,Si,7,Si,No,DSL,Si,No,No,Si,No,Si,Mes a mes,No,Tarjeta de credito,79.0,532.84,Si
+CLI-0145,Femenino,1,No,No,15,Si,Si,DSL,No,Si,No,No,Si,No,Contrato de 1 ano,No,Cheque electronico,76.0,1166.78,No
+CLI-0146,Masculino,1,No,No,15,Si,Si,No,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Sin servicio de internet,Contrato de 1 ano,Si,Tarjeta de credito,35.0,548.78,No
+CLI-0147,Masculino,1,No,Si,20,Si,No,Fibra optica,No,Si,No,No,Si,No,Contrato de 1 ano,No,Cheque enviado por correo,86.0,1725.91,No
+CLI-0148,Femenino,0,No,Si,4,Si,No,Fibra optica,Si,No,No,No,Si,Si,Mes a mes,Si,Cheque electronico,94.0,365.55,Si
+CLI-0149,Masculino,1,No,No,22,Si,Si,DSL,Si,No,Si,No,No,Si,Contrato de 1 ano,Si,Transferencia bancaria,84.0,1819.97,No
+CLI-0150,Masculino,1,No,No,8,Si,No,DSL,Si,No,Si,Si,Si,No,Mes a mes,Si,Transferencia bancaria,87.0,725.92,No
